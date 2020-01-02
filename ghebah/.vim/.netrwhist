@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/etc/apache2/conf-available'
+let g:netrw_dirhist_2='oneclick'
+let g:netrw_dirhist_3='/var/log/nemesis'
+let g:netrw_dirhist_4='/homepages/21/d698304542/htdocs/logs'
+let g:netrw_dirhist_5='/homepages/21/d698304542/htdocs/logs/traffic.html'
